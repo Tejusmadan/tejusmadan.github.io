@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: "Comic Neue", "Segoe UI", sans-serif;
+  background: #fef8f5;
+  color: #333;
+}
+
+.App {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.avatar {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.sections {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.card {
+  background: white;
+  border-radius: 20px;
+  padding: 1.2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.emoji {
+  font-size: 1.5rem;
+}
+
+.xp-bar {
+  height: 6px;
+  background: #eee;
+  border-radius: 4px;
+  margin-bottom: 0.8rem;
+  overflow: hidden;
+}
+
+.xp-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #00d0ff, #007fff);
+  transition: width 0.5s;
+}
+
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 1rem;
+  color: #aaa;
+}
+
+a {
+  text-decoration: none;
+  color: #007fff;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
