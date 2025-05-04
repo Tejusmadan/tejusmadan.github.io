@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tejusmadan/static/css/main.391f70dd.css",
-    "main.js": "/tejusmadan/static/js/main.d93aad30.js",
-    "static/js/453.acca0757.chunk.js": "/tejusmadan/static/js/453.acca0757.chunk.js",
-    "index.html": "/tejusmadan/index.html",
-    "main.391f70dd.css.map": "/tejusmadan/static/css/main.391f70dd.css.map",
-    "main.d93aad30.js.map": "/tejusmadan/static/js/main.d93aad30.js.map",
-    "453.acca0757.chunk.js.map": "/tejusmadan/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/static/css/main.391f70dd.css",
+    "main.js": "/static/js/main.6e009972.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "index.html": "/index.html",
+    "main.391f70dd.css.map": "/static/css/main.391f70dd.css.map",
+    "main.6e009972.js.map": "/static/js/main.6e009972.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.391f70dd.css",
-    "static/js/main.d93aad30.js"
+    "static/js/main.6e009972.js"
   ]
 }
